@@ -15,6 +15,9 @@
     "typescript"
   ],
   "editor.formatOnSave": true,
-  // I'm using Eclipse colors for Java in user settings, but this is Type Script
+  // I'm using Eclipse colors for Java in user settings, but this is TypeScript
+  "workbench.preferredDarkColorTheme": "Default Dark Modern",
+  "workbench.preferredLightColorTheme": "Default Light Modern",
+  "window.autoDetectColorScheme": true,
   "workbench.colorTheme": "Default Light Modern",
 }
