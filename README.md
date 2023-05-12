@@ -1,3 +1,21 @@
+## FIXME
+
+- [ ] 2023-05-12 Error: `npm run test` fails to connect the internet while offline.
+- [ ] 2023-05-11 Error: Hit `[esc]` key after Pick Checkboxes causes all boxes to be unchecked. Using `[return]` key leaves the flags intact.
+- [ ] 2023-05-11 Typo: "requried" in `.github/workflows/release.yml:9`.
+
+## TODO
+
+- [ ] 2023-05-12 Redundant code in tests is reorganized, moved to Before for example.
+- [ ] 2023-05-12 The creation date feature is default and disabled in old tests.
+- [ ] 2023-05-11 Remove the creation date if checked in the same day.
+- [ ] 2023-05-11 Use the checked date for creation when reopen without a create date later.
+
+## DONE
+
+- [x] ~~_2023-05-12 Avoid multiply creation dates._~~ [2023-05-12] ([PKief/#17](https://github.com/PKief/vscode-markdown-checkbox/issues/17))
+- [x] ~~_2023-05-11 Create Checkbox with date inserted._~~ [2023-05-12] ([PKief/#17](https://github.com/PKief/vscode-markdown-checkbox/issues/17))
+
 <h1 align="center">
   <br>
     <img src="https://raw.githubusercontent.com/PKief/vscode-markdown-checkbox/main/logo.png" alt="logo" width="200">
